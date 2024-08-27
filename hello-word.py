@@ -1,4 +1,4 @@
-print("hello github")
+
 
 while True:
   print ("i will strudy ML")
